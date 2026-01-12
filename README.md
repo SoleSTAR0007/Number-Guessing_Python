@@ -4,4 +4,4 @@ A simple Python number guessing game where the user tries to guess a randomly ge
 
 ## How to Run
 ```bash
-python game.py
+Random_Guess.py
